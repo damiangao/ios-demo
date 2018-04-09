@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<dict>
+		<key>UUID</key>
+		<string>0</string>
+		<key>Name</key>
+		<string>Alex</string>
+		<key>PhoneNumber</key>
+		<string>1235431234</string>
+		<key>Email</key>
+		<string>543sdf@qq.com</string>
+	</dict>
+	<key>1</key>
+	<dict>
+		<key>UUID</key>
+		<string>1</string>
+		<key>Name</key>
+		<string>Bob</string>
+		<key>PhoneNumber</key>
+		<string>76534356</string>
+		<key>Email</key>
+		<string>asdsf@gmail.com</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>UUID</key>
+		<string>2</string>
+		<key>Name</key>
+		<string>Condy</string>
+		<key>PhoneNumber</key>
+		<string>3245623465</string>
+		<key>Email</key>
+		<string>earteg@yahoo.com</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>UUID</key>
+		<string>3</string>
+		<key>Name</key>
+		<string>Damian</string>
+		<key>PhoneNumber</key>
+		<string>32456346</string>
+		<key>Email</key>
+		<string>sadadf@qq.com</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>UUID</key>
+		<string>4</string>
+		<key>Name</key>
+		<string>Zacks</string>
+		<key>PhoneNumber</key>
+		<string>321344</string>
+		<key>Email</key>
+		<string>sgdf@163.com</string>
+	</dict>
+</dict>
+</plist>
